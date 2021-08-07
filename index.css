@@ -1,0 +1,4 @@
+<!-- Your platform (jquery) scripts. -->
+
+<link href="https://unpkg.com/survey-jquery@1.8.59/survey.css" type="text/css" rel="stylesheet" />
+<script src="https://unpkg.com/survey-jquery@1.8.59/survey.jquery.min.js"></script>
